@@ -3,14 +3,14 @@ name: Auto Update Configs
 on:
   schedule:
     # Runs every 60 minutes
-    - cron: '*/60 * * * *'
+    - cron: '0 * * * *'
   workflow_dispatch: # Allows you to manually click "Run" button
 
 jobs:
   update:
     runs-on: ubuntu-latest
     permissions:
-      contents: write  # Critical: allows the bot to push changes
+      contents: write
       
     steps:
       - name: Checkout Code
