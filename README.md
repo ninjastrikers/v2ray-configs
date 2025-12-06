@@ -4,10 +4,10 @@
 ![Stars](https://img.shields.io/github/stars/ninjastrikers/v2ray-configs?style=flat-square)
 ![Forks](https://img.shields.io/github/forks/ninjastrikers/v2ray-configs?style=flat-square)
 
-A fully automated V2Ray subscription aggregator. This repository collects, cleans, and sorts configurations from various high-quality public sources every 30 minutes.
+A fully automated V2Ray subscription aggregator. This repository collects, cleans, and sorts configurations from various high-quality public sources every 60 minutes.
 
 **Features:**
-- 🔄 **Auto-Updates:** Runs automatically every 30 minutes.
+- 🔄 **Auto-Updates:** Runs automatically every 60 minutes.
 - ⚡ **Optimized:** Configs are shuffled and split into small chunks (500 per file) for faster loading.
 - 🧹 **Clean:** Smart Base64 decoding and deduplication.
 - 📂 **Categorized:** Separate files for specific protocols (VMess, VLESS, etc.).
