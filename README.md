@@ -1,8 +1,8 @@
 # 🚀 Auto V2Ray Subscription Aggregator
 
-![Last Commit](https://img.shields.io/github/last-commit/ninjastrikers/Auto-V2Ray-Subscribe?style=flat-square&color=blue)
-![Stars](https://img.shields.io/github/stars/ninjastrikers/Auto-V2Ray-Subscribe?style=flat-square)
-![Forks](https://img.shields.io/github/forks/ninjastrikers/Auto-V2Ray-Subscribe?style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/ninjastrikers/v2ray-configs?style=flat-square&color=blue)
+![Stars](https://img.shields.io/github/stars/ninjastrikers/v2ray-configs?style=flat-square)
+![Forks](https://img.shields.io/github/forks/ninjastrikers/v2ray-configs?style=flat-square)
 
 A fully automated V2Ray subscription aggregator. This repository collects, cleans, and sorts configurations from various high-quality public sources every 30 minutes.
 
