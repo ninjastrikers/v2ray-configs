@@ -1,5 +1,8 @@
-[**🇺🇸 English**](README.md)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**🇲🇲 မြန်မာ**](https://github.com/ninjastrikers/v2ray-configs/main/README_my.md)
+<div dir="ltr" align=center>
 
+[**🇺🇸 English**](README.md) / [**🇲🇲 မြန်မာ**](README_my.md) 
+</div>
+<br>
 
 ဒါကတော့ V2Ray config တွေကို အလိုအလျောက် စုစည်းပေးတဲ့ repository ဖြစ်ပါတယ်။ အရည်အသွေးကောင်းတဲ့ public source တွေကနေ မိနစ် ၆၀ တိုင်း config တွေကို စုစည်းပေးနေမှာ ဖြစ်ပါတယ်။
 

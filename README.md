@@ -1,5 +1,8 @@
-[**🇺🇸 English**](README.md)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**🇲🇲 မြန်မာ**](https://github.com/ninjastrikers/v2ray-configs/main/README_my.md)
+<div dir="ltr" align=center>
 
+[**🇺🇸 English**](README.md) / [**🇲🇲 မြန်မာ**](README_my.md) 
+</div>
+<br>
 # 🚀 Auto V2Ray Subscription Aggregator
 
 ![Last Commit](https://img.shields.io/github/last-commit/ninjastrikers/v2ray-configs?style=flat-square&color=blue)
